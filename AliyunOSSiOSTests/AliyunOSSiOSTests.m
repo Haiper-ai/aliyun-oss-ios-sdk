@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 #import <AliyunOSSiOS/OSSHttpdns.h>
 #import "OSSTestMacros.h"
 #import "OSSTestUtils.h"

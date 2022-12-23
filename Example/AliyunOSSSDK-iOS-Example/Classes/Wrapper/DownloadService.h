@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 
 typedef void(^DownloadProgressBlock)(int64_t bytesReceived, int64_t totalBytesReceived, int64_t totalBytesExpectToReceived);
 typedef void(^DownloadFailureBlock)(NSError *error);

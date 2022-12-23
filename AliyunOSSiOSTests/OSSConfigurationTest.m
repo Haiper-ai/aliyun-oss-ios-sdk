@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 #import "OSSTestMacros.h"
 
 @interface OSSConfigurationTest : XCTestCase {

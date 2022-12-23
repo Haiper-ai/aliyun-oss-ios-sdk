@@ -7,7 +7,7 @@
 //
 
 #import <XCTest/XCTest.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 
 #define SCHEME @"https://"
 #define ENDPOINT @"oss-cn-hangzhou.aliyuncs.com"

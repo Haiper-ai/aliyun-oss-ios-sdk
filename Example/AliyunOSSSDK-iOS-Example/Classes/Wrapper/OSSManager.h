@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

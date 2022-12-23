@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <AliyunOSSiOS/AliyunOSSiOS.h>
+#import "AliyunOSSiOS.h"
 
 @interface OSSTestUtils : NSObject
 + (void)cleanBucket: (NSString *)bucket with: (OSSClient *)client;
